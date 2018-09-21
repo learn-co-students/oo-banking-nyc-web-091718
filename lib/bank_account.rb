@@ -24,4 +24,4 @@ class BankAccount
     balance > 0 && status == "open"
   end
 
-end
+end #end
